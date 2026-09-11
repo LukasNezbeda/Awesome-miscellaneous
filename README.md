@@ -7,5 +7,12 @@ WinToys: On MS Store
 
 
 Maintenance/Cleanup
+
+BulkCrapUninstaller
 https://github.com/BCUninstaller/Bulk-Crap-Uninstaller
+
+XTR-Toolbox
 https://github.com/Zeeex/XTR-Toolbox
+
+Windows Auto Login
+https://learn.microsoft.com/en-us/sysinternals/downloads/autologon
