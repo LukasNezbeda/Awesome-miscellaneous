@@ -16,3 +16,7 @@ https://github.com/Zeeex/XTR-Toolbox
 
 Windows Auto Login
 https://learn.microsoft.com/en-us/sysinternals/downloads/autologon
+
+
+OpenTube
+https://github.com/OpenTubeX/OpenTubeX
