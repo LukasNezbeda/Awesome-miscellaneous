@@ -1,6 +1,7 @@
 # Awesome-miscellaneous
 Collection of cool and useful software we like to use on almost daily basis.
 
+Note that this list is far but finished
 
 Windows-Control
 WinToys: On MS Store
